@@ -25,7 +25,7 @@
    cd GitHubExplorer
 3. **Install dependencies:**
    npm install
-   # or
+    or
    yarn install
 4. **Run the app using Expo:**
    npx expo start
